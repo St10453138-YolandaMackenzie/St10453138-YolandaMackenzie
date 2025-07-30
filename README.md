@@ -1,8 +1,8 @@
 <h1 align="center">🌿 Hi there, I'm Yolanda Mackenzie 🍯</h1>
 
 <p align="center">
-🎓 Higher Cerificate in Mobile Application and Web Development
-🎓 Bachelor of Computer & Information Sciences in Application Development student <br>
+🎓 Higher Cerificate in Mobile Application and Web Development [Completed]
+🎓 Bachelor of Computer & Information Sciences in Application Development Student <br>
 💛 Passionate about clean design, smart code & intentional learning <br>
 🌱 Currently learning Java, SQL & database concepts
 </p>
@@ -33,9 +33,9 @@
 ### 🌿 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=gruvbox_light&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=St10453138-YolandaMackenzie&show_icons=true&theme=gruvbox_light&hide_border=true" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=gruvbox_light&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=St10453138-YolandaMackenzie&layout=compact&theme=gruvbox_light&hide_border=true" />
 </p>
 
 ---
