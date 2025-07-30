@@ -1,6 +1,4 @@
 ## Hi there, I'm Yolanda Mackenzie
-<!--
-**St10453138-YolandaMackenzie/St10453138-YolandaMackenzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">🌿 Hi there, I'm Yolanda Mackenzie 🍯</h1>
 
@@ -54,4 +52,4 @@
 <p align="center" style="color: olive;">
 ✨ "Code with calm, create with heart, and grow with grace." 🌾
 </p>
--->
+
