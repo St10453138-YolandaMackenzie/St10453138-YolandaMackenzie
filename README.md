@@ -43,7 +43,7 @@
 ### 📫 Let’s Connect
 
 - 📧 Email: wilmamackenzie135@gmail.com  
-- 💼 LinkedIn: 
+- 💼 LinkedIn: https://www.linkedin.com/in/yolanda-vilma-de-amaral-mackenzie-692965377/ 
 
 ---
 
